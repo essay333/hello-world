@@ -1,5 +1,4 @@
-# hello-world
-first repository
+# hello-world - 2020-0621
 
 MIKA - Happy endin
 
